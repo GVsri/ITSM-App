@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Tracker</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Tracker</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">565a170bb4232110320f8dc279c804ed</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>Jeevitha.Murugesan</sys_created_by>
+        <sys_created_on>2024-01-03 13:51:08</sys_created_on>
+        <sys_id>0bfda0c587e73590180dbaa4dabb35b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tracker</sys_name>
+        <sys_package display_value="ITSM App" source="x_819423_itsm_app">490dec4587e73590180dbaa4dabb3534</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM App">490dec4587e73590180dbaa4dabb3534</sys_scope>
+        <sys_update_name>sys_wizard_answer_0bfda0c587e73590180dbaa4dabb35b8</sys_update_name>
+        <sys_updated_by>Jeevitha.Murugesan</sys_updated_by>
+        <sys_updated_on>2024-01-03 13:51:08</sys_updated_on>
+        <table/>
+        <target_url>x_819423_itsm_app_tracker.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
