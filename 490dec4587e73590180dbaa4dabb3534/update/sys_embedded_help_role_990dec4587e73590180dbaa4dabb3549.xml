@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_819423_itsm_app.admin" name="x_819423_itsm_app.admin">910dec4587e73590180dbaa4dabb353b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Jeevitha.Murugesan</sys_created_by>
+        <sys_created_on>2024-01-03 13:46:54</sys_created_on>
+        <sys_id>990dec4587e73590180dbaa4dabb3549</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>910dec4587e73590180dbaa4dabb353b</sys_name>
+        <sys_package display_value="ITSM App" source="x_819423_itsm_app">490dec4587e73590180dbaa4dabb3534</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM App">490dec4587e73590180dbaa4dabb3534</sys_scope>
+        <sys_update_name>sys_embedded_help_role_990dec4587e73590180dbaa4dabb3549</sys_update_name>
+        <sys_updated_by>Jeevitha.Murugesan</sys_updated_by>
+        <sys_updated_on>2024-01-03 13:46:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

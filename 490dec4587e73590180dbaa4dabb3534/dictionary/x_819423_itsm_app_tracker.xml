@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="07fda0c587e73590180dbaa4dabb35a4" extends="task" label="Tracker" max_length="40" name="x_819423_itsm_app_tracker" type="collection">
+        <element label="Agent Name" max_length="32" name="agent_name" reference="sys_user" type="reference"/>
+    </element>
+</database>
